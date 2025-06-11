@@ -43,15 +43,22 @@ I'm actively building, learning, and open to collaborations or feedback.
 
 - 🔗 [LinkedIn](https://linkedin.com/in/YOUR-LINK-HERE)
 - 📧 christopher.your@email.com
- (this file) appears on your GitHub profile.
+Scroll to the bottom, type a short commit message like:
 
-Here are some ideas to get you started:
+pgsql
+Copy
+Edit
+Update README to reflect cybersecurity portfolio
+Click "Commit changes"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Let me know once it’s saved, and I’ll help you create the first folder and files for Log Analyzer. If the edit button is still giving you trouble, I can also guide you through using GitHub Desktop or command line.
+
+
+
+
+
+
+
+
+
+
