@@ -1,28 +1,49 @@
-<h1>Hi, I'm Christopher! 
+# 🛡️ Christopher Spencer | Cybersecurity Portfolio
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+Welcome to my cybersecurity portfolio. I'm currently pursuing a degree in Cybersecurity and building hands-on projects that demonstrate my skills in security analysis, scripting, system hardening, and incident response. This space documents my learning journey, practical experience, and future development as I work toward a career in cybersecurity architecture.
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
- 
+## 🔍 Projects
 
-<h2>📺 Popular YouTube Videos</h2>
+Each project includes code, documentation, and use cases to showcase specific areas of expertise.
 
+| Project | Description | Status |
+|--------|-------------|--------|
+| [🔎 Log Analyzer (Python)](./LogAnalyzer) | Parses and flags suspicious events in system log files | 🛠️ In Progress |
+| [⚔️ VM Attack & Defense Lab](./VM-Attack-Defense) | Simulated attack scenario with screenshots and incident handling | 🛠️ In Progress |
+| [📊 SIEM-Lite Dashboard](./SIEM-Lite) | Basic Splunk/ELK dashboard with log ingestion and threat detection | ⏳ Planned |
+| [🔐 Windows Hardening Script](./Windows-Hardening) | PowerShell script to apply CIS-level hardening on Windows 10 | ⏳ Planned |
+| [🕵️ Threat Intelligence Checker](./ThreatIntelChecker) | Python tool that matches logs against threat intel feeds | ⏳ Planned |
+| [📄 Incident Response Plan](./IncidentResponsePlan) | Written playbook and timeline based on a mock ransomware event | ⏳ Planned |
 
+---
 
-<h2> 🤳 Connect with me:</h2>
+## 📚 Current Focus
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- Learning Splunk and ELK for threat detection  
+- Automating log parsing with Python  
+- Building a home lab for attack-defense simulations  
+- Documenting all findings for real-world job readiness
 
-[twitter]: 
-[youtube]: 
-[instagram]: 
-[linkedin]: 
+---
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 Skills Demonstrated
+
+- 🔹 Log Analysis & Detection  
+- 🔹 Python Scripting for Security Automation  
+- 🔹 PowerShell for System Hardening  
+- 🔹 Virtual Lab Management (VMs)  
+- 🔹 Threat Intelligence & Response  
+- 🔹 Security Documentation & Playbooks  
+
+---
+
+## 📫 Let's Connect
+
+I'm actively building, learning, and open to collaborations or feedback.
+
+- 🔗 [LinkedIn](https://linkedin.com/in/YOUR-LINK-HERE)
+- 📧 christopher.your@email.com
+ (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
