@@ -43,22 +43,17 @@ I'm actively building, learning, and open to collaborations or feedback.
 
 - 🔗 [LinkedIn](https://linkedin.com/in/YOUR-LINK-HERE)
 - 📧 christopher.your@email.com
-Scroll to the bottom, type a short commit message like:
 
-pgsql
-Copy
-Edit
+
+
+
+
+
+
+
+
+
+
+
+
 Update README to reflect cybersecurity portfolio
-Click "Commit changes"
-
-Let me know once it’s saved, and I’ll help you create the first folder and files for Log Analyzer. If the edit button is still giving you trouble, I can also guide you through using GitHub Desktop or command line.
-
-
-
-
-
-
-
-
-
-
