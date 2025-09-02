@@ -1,54 +1,40 @@
-# 🛡️ Christopher Spencer | Cybersecurity Portfolio
+# Hi, I’m Chris Spencer 👋
+**Aspiring Incident Response Specialist → Future Cybersecurity Architect**
 
-Welcome to my cybersecurity portfolio. I'm currently pursuing a degree in Cybersecurity and building hands-on projects that demonstrate my skills in security analysis, scripting, system hardening, and incident response. This space documents my learning journey, practical experience, and future development as I work toward a career in cybersecurity architecture.
+🎓 **Education:**  
+- B.S. Cybersecurity, Project Management Concentration (SNHU, in progress)  
+- Core coursework includes: Network Security, Operating System Security, Cyber Defense, Incident Response & Investigation, Security Assessment & Auditing, Risk Management, and Enterprise Security  
 
-## 🔍 Projects
+🔒 **Certifications:** CompTIA CySA+  
 
-Each project includes code, documentation, and use cases to showcase specific areas of expertise.
+🌟 **Leadership:** Member, National Society of Leadership and Success (NSLS)  
 
-| Project | Description | Status |
-|--------|-------------|--------|
-| [🔎 Log Analyzer (Python)](./LogAnalyzer) | Parses and flags suspicious events in system log files | 🛠️ In Progress |
-| [⚔️ VM Attack & Defense Lab](./VM-Attack-Defense) | Simulated attack scenario with screenshots and incident handling | 🛠️ In Progress |
-| [📊 SIEM-Lite Dashboard](./SIEM-Lite) | Basic Splunk/ELK dashboard with log ingestion and threat detection | ⏳ Planned |
-| [🔐 Windows Hardening Script](./Windows-Hardening) | PowerShell script to apply CIS-level hardening on Windows 10 | ⏳ Planned |
-| [🕵️ Threat Intelligence Checker](./ThreatIntelChecker) | Python tool that matches logs against threat intel feeds | ⏳ Planned |
-| [📄 Incident Response Plan](./IncidentResponsePlan) | Written playbook and timeline based on a mock ransomware event | ⏳ Planned |
+💼 **Current Role:** Maintenance Technician II (Walmart) → Targeting transition into Cybersecurity (IR/Cloud/Architecture)  
 
 ---
 
-## 📚 Current Focus
-
-- Learning Splunk and ELK for threat detection  
-- Automating log parsing with Python  
-- Building a home lab for attack-defense simulations  
-- Documenting all findings for real-world job readiness
-
----
-
-## 🧠 Skills Demonstrated
-
-- 🔹 Log Analysis & Detection  
-- 🔹 Python Scripting for Security Automation  
-- 🔹 PowerShell for System Hardening  
-- 🔹 Virtual Lab Management (VMs)  
-- 🔹 Threat Intelligence & Response  
-- 🔹 Security Documentation & Playbooks  
+## 🛠 Featured Security Projects
+- [Incident Response Workflows](https://github.com/Cspenc3/incident-response-workflows) – NIST 800-61 aligned playbooks, templates, and postmortems.  
+- [Windows Log Detections](https://github.com/Cspenc3/windows-log-detections) – Sysmon config, Sigma rules, SIEM queries mapped to MITRE ATT&CK.  
+- [Memory Forensics Quickstart](https://github.com/Cspenc3/memory-forensics-quickstart) – Volatility 3 analysis and IOC extraction.  
+- [Network Triage (PCAP/Zeek)](https://github.com/Cspenc3/network-triage-pcap) – Wireshark/Zeek workflows and Suricata detection rules.  
+- [Cloud Incident Response](https://github.com/Cspenc3/cloud-incident-response) – GuardDuty triage and CloudTrail hunting.  
+- [Phishing Triage Lab](https://github.com/Cspenc3/phishing-triage-lab) – Email header analysis, URL inspection, enrichment scripts.  
+- [Log Analyzer](https://github.com/Cspenc3/log-analyzer) – Python log parsing and enrichment.  
+- [VM Attack & Defense](https://github.com/Cspenc3/vm-attack-defense) – Red/Blue lab scenarios and lessons learned.  
 
 ---
 
-## 📫 Let's Connect
+## 🎯 Career Roadmap
+1. **Short Term:** Build Incident Response expertise (SIEM, DFIR, Playbooks).  
+2. **Mid Term:** Transition into Cloud Security Engineer / IR Consultant roles.  
+3. **Long Term:** Cybersecurity Architect, designing secure enterprise environments (Zero Trust, IAM, Cloud).  
 
-I'm actively building, learning, and open to collaborations or feedback.
+---
 
-- 🔗 [LinkedIn](https://linkedin.com/in/YOUR-LINK-HERE)
-- 📧 christopher.your@email.com
-
-
-
-
-
-
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/christopher-spencer-3a1a8827b  
+- GitHub: [github.com/Cspenc3](https://github.com/Cspenc3)  
 
 
 
@@ -56,4 +42,11 @@ I'm actively building, learning, and open to collaborations or feedback.
 
 
 
-Update README to reflect cybersecurity portfolio
+
+
+
+
+
+
+
+
