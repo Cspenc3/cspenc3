@@ -7,7 +7,8 @@
 
 🔒 **Certifications:** CompTIA CySA+  
 
-🌟 **Leadership:** Member, National Society of Leadership and Success (NSLS)  
+🌟 **Leadership:** 🌟 Member of the National Society of Leadership and Success (NSLS), where I continue to grow leadership and communication skills alongside technical development.
+ 
 
 💼 **Current Role:** Maintenance Technician II (Walmart) → Targeting transition into Cybersecurity (IR/Cloud/Architecture)  
 
