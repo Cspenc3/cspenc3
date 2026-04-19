@@ -1,53 +1,49 @@
-# Hi, I’m Chris Spencer 👋
-**Aspiring Incident Response Specialist → Future Cybersecurity Architect**
+# Hi, I’m Christopher Spencer 👋
 
-🎓 **Education:**  
-- B.S. Cybersecurity, Project Management Concentration (SNHU, in progress)  
-- Core coursework includes: Network Security, Operating System Security, Cyber Defense, Incident Response & Investigation, Security Assessment & Auditing, Risk Management, and Enterprise Security  
+**SOC-focused cybersecurity student building toward OT security and SRE-aligned work**
 
-🔒 **Certifications:** CompTIA CySA+  
+## Overview
+I’m currently focused on breaking into a SOC role while building on real-world operational troubleshooting experience and expanding into Operational Technology (OT) security and Site Reliability Engineering (SRE)-style thinking.
 
-🌟 **Leadership:** 🌟 Member of the National Society of Leadership and Success (NSLS), where I continue to grow leadership and communication skills alongside technical development.
- 
+My background gives me a practical perspective on how real system issues, connectivity problems, and reliability failures can overlap with security analysis.
 
-💼 **Current Role:** Maintenance Technician II (Walmart) → Targeting transition into Cybersecurity (IR/Cloud/Architecture)  
+## Current Focus
+- SOC investigation and incident response labs
+- Wireshark traffic analysis and network triage
+- OT-related troubleshooting and security interpretation
+- SRE-style thinking around failures, retries, recovery, and system behavior
+- Continuous learning through books, labs, and hands-on project work
 
----
+## Featured Work
+- [security-portfolio](https://github.com/Cspenc3/security-portfolio) – Main portfolio of security labs, playbooks, and investigations
+- [soc-incident-response-lab](https://github.com/Cspenc3/security-portfolio/tree/main/soc-incident-response-lab) – Wireshark traffic analysis, TLS investigation, system hardening, and PKI concepts
+- [incident-response-workflows](https://github.com/Cspenc3/incident-response-workflows) – NIST 800-61 aligned workflows and response thinking
+- [network-triage-pcap](https://github.com/Cspenc3/network-triage-pcap) – Network investigation and packet analysis work
 
-## 🛠 Featured Security Projects
-- [Incident Response Workflows](https://github.com/Cspenc3/incident-response-workflows) – NIST 800-61 aligned playbooks, templates, and postmortems.  
-- [Windows Log Detections](https://github.com/Cspenc3/windows-log-detections) – Sysmon config, Sigma rules, SIEM queries mapped to MITRE ATT&CK.  
-- [Memory Forensics Quickstart](https://github.com/Cspenc3/memory-forensics-quickstart) – Volatility 3 analysis and IOC extraction.  
-- [Network Triage (PCAP/Zeek)](https://github.com/Cspenc3/network-triage-pcap) – Wireshark/Zeek workflows and Suricata detection rules.  
-- [Cloud Incident Response](https://github.com/Cspenc3/cloud-incident-response) – GuardDuty triage and CloudTrail hunting.  
-- [Phishing Triage Lab](https://github.com/Cspenc3/phishing-triage-lab) – Email header analysis, URL inspection, enrichment scripts.  
-- [Log Analyzer](https://github.com/Cspenc3/log-analyzer) – Python log parsing and enrichment.  
-- [VM Attack & Defense](https://github.com/Cspenc3/vm-attack-defense) – Red/Blue lab scenarios and lessons learned.  
+## OT and SRE Perspective
+One area I care about is understanding how infrastructure and operational issues can look like security problems at the network level.
 
----
+Examples include:
+- RF instability and repeated connection attempts
+- Certificate-related communication failures
+- Timeouts, retries, and interrupted sessions
+- Distinguishing reliability issues from true security incidents
 
-## 🎯 Career Roadmap
-1. **Short Term:** Build Incident Response expertise (SIEM, DFIR, Playbooks).  
-2. **Mid Term:** Transition into Cloud Security Engineer / IR Consultant roles.  
-3. **Long Term:** Cybersecurity Architect, designing secure enterprise environments (Zero Trust, IAM, Cloud).  
+## Continuous Learning
+Books and resources helping shape my approach:
+- *The Phoenix Project*
+- *The DevOps Handbook*
+- *Practical Packet Analysis*
+- *Blue Team Handbook*
 
----
+## Education & Certifications
+- B.S. in Cybersecurity – Southern New Hampshire University (in progress)
+- CompTIA CySA+
+- Member, National Society of Leadership and Success (NSLS)
 
-## 📫 Connect With Me
-- LinkedIn: www.linkedin.com/in/christopher-spencer-3a1a8827b  
-- GitHub: [github.com/Cspenc3](https://github.com/Cspenc3)  
+## Goal
+My goal is to enter a SOC role, continue building hands-on security analysis skills, and grow into OT security and SRE-aligned work over time.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Connect With Me
+- LinkedIn: www.linkedin.com/in/christopher-spencer-3a1a8827b
+- GitHub: [github.com/Cspenc3](https://github.com/Cspenc3)
