@@ -15,10 +15,14 @@ My background gives me a practical perspective on how real system issues, connec
 - Continuous learning through books, labs, and hands-on project work
 
 ## Featured Work
-- [security-portfolio](https://github.com/Cspenc3/security-portfolio) – Main portfolio of security labs, playbooks, and investigations
-- [soc-incident-response-lab](https://github.com/Cspenc3/security-portfolio/tree/main/soc-incident-response-lab) – Wireshark traffic analysis, TLS investigation, system hardening, and PKI concepts
-- [incident-response-workflows](https://github.com/Cspenc3/incident-response-workflows) – NIST 800-61 aligned workflows and response thinking
-- [network-triage-pcap](https://github.com/Cspenc3/network-triage-pcap) – Network investigation and packet analysis work
+
+### 🔷 SOC Incident Response Lab
+- [Project README](https://github.com/Cspenc3/security-portfolio/tree/main/soc-incident-response-lab) – Wireshark analysis, DNS anomaly investigation, Linux response actions, SIEM-style correlation, and OT/SRE perspective
+- [Incident Report](https://github.com/Cspenc3/security-portfolio/blob/main/soc-incident-response-lab/report/incident_report.md) – DNS anomaly investigation with findings and recommendations
+- [Cybersecurity Playbook (v1)](https://github.com/Cspenc3/security-portfolio/blob/main/Playbooks/cybersecurity-playbook.md) – Structured response process connected to the SOC lab
+
+### Portfolio Repository
+- [security-portfolio](https://github.com/Cspenc3/security-portfolio) – Main portfolio containing security labs, playbooks, reports, and investigation evidence
 
 ## OT and SRE Perspective
 One area I care about is understanding how infrastructure and operational issues can look like security problems at the network level.
