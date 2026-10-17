@@ -14,7 +14,7 @@ I care about the intersection of **security, availability, safety, and sound eng
 
 | Project | What it demonstrates |
 | --- | --- |
-| [Network Triage (PCAP/Zeek)](https://github.com/Cspenc3/network-triage-pcap) | Packet analysis, protocol investigation, and network troubleshooting from CYB 210 work |
+| [Networking Fundamentals (CYB 210)](https://github.com/Cspenc3/network-triage-pcap) | Subnetting and protocol study notes; future traffic-analysis exercises are clearly marked as planned |
 | [CYB 220 Network Security Sandbox](https://github.com/Cspenc3/CYB220-project-one-sandbox) | Virtual network setup, IP configuration, Group Policy hardening, and connectivity validation |
 | [SOC Incident Response Lab](https://github.com/Cspenc3/security-portfolio/tree/main/soc-incident-response-lab) | Wireshark-based investigation of unusual traffic with documented findings |
 | [DNS Anomaly Incident Report](https://github.com/Cspenc3/security-portfolio/blob/main/soc-incident-response-lab/report/incident_report.md) | Evidence analysis, competing explanations, and response recommendations |
