@@ -1,53 +1,58 @@
-# Hi, I’m Christopher Spencer 👋
+# Hi, I'm Christopher Spencer 👋
 
-**SOC-focused cybersecurity student building toward OT security and SRE-aligned work**
+**CompTIA CySA+ | Industrial Operations & Cybersecurity | Building Toward OT Security Engineering and Architecture**
 
-## Overview
-I’m currently focused on breaking into a SOC role while building on real-world operational troubleshooting experience and expanding into Operational Technology (OT) security and Site Reliability Engineering (SRE)-style thinking.
+## About Me
 
-My background gives me a practical perspective on how real system issues, connectivity problems, and reliability failures can overlap with security analysis.
+I'm a cybersecurity student and industrial maintenance professional with hands-on experience troubleshooting automated equipment, connectivity issues, and operational failures.
 
-## Current Focus
-- SOC investigation and incident response labs
-- Wireshark traffic analysis and network triage
-- OT-related troubleshooting and security interpretation
-- SRE-style thinking around failures, retries, recovery, and system behavior
-- Continuous learning through books, labs, and hands-on project work
+My goal is to design **secure, reliable industrial networks and control-system environments**. I'm combining my operational background with network configuration, security analysis, and hands-on labs to build toward OT/ICS security engineering and, over time, security architecture.
 
-## Featured Work
+I care about the intersection of **security, availability, safety, and sound engineering decisions**.
 
-### 🔷 SOC Incident Response Lab
-- [Project README](https://github.com/Cspenc3/security-portfolio/tree/main/soc-incident-response-lab) – Wireshark analysis, DNS anomaly investigation, Linux response actions, SIEM-style correlation, and OT/SRE perspective
-- [Incident Report](https://github.com/Cspenc3/security-portfolio/blob/main/soc-incident-response-lab/report/incident_report.md) – DNS anomaly investigation with findings and recommendations
-- [Cybersecurity Playbook (v1)](https://github.com/Cspenc3/security-portfolio/blob/main/Playbooks/cybersecurity-playbook.md) – Structured response process connected to the SOC lab
+## Featured Projects
 
-### Portfolio Repository
-- [security-portfolio](https://github.com/Cspenc3/security-portfolio) – Main portfolio containing security labs, playbooks, reports, and investigation evidence
+| Project | What it demonstrates |
+| --- | --- |
+| [Network Triage (PCAP/Zeek)](https://github.com/Cspenc3/network-triage-pcap) | Packet analysis, protocol investigation, and network troubleshooting from CYB 210 work |
+| [CYB 220 Network Security Sandbox](https://github.com/Cspenc3/CYB220-project-one-sandbox) | Virtual network setup, IP configuration, Group Policy hardening, and connectivity validation |
+| [SOC Incident Response Lab](https://github.com/Cspenc3/security-portfolio/tree/main/soc-incident-response-lab) | Wireshark-based investigation of unusual traffic with documented findings |
+| [DNS Anomaly Incident Report](https://github.com/Cspenc3/security-portfolio/blob/main/soc-incident-response-lab/report/incident_report.md) | Evidence analysis, competing explanations, and response recommendations |
+| [Cybersecurity Playbook](https://github.com/Cspenc3/security-portfolio/blob/main/Playbooks/cybersecurity-playbook.md) | Repeatable response and investigation procedures |
+| [Security Portfolio](https://github.com/Cspenc3/security-portfolio) | SOC, incident response, cloud-security learning, and supporting documentation |
 
-## OT and SRE Perspective
-One area I care about is understanding how infrastructure and operational issues can look like security problems at the network level.
+## OT Security Architecture Lab — In Planning
 
-Examples include:
-- RF instability and repeated connection attempts
-- Certificate-related communication failures
-- Timeouts, retries, and interrupted sessions
-- Distinguishing reliability issues from true security incidents
+I'm developing a **virtual-first OT security architecture project** that will connect networking and industrial control-system learning in an isolated lab.
 
-## Continuous Learning
-Books and resources helping shape my approach:
-- *The Phoenix Project*
-- *The DevOps Handbook*
-- *Practical Packet Analysis*
-- *Blue Team Handbook*
+**Planned scope:**
+- Model enterprise, operations, and control-network zones
+- Configure segmentation, routing, and controlled communication paths
+- Connect OpenPLC, FUXA HMI/SCADA, and simulated industrial processes
+- Analyze industrial traffic with Wireshark and investigate events with Splunk
+- Document architecture decisions, configuration, test evidence, and operational tradeoffs
+- Evaluate a physical PLC integration after obtaining authorized lab hardware
 
-## Education & Certifications
-- B.S. in Cybersecurity – Southern New Hampshire University (in progress)
-- CompTIA CySA+
-- Member, National Society of Leadership and Success (NSLS)
+**Planned tools:** Cisco Packet Tracer, GNS3, Docker/WSL2, OpenPLC, FUXA, GRFICS, Wireshark, and Splunk.
 
-## Goal
-My goal is to enter a SOC role, continue building hands-on security analysis skills, and grow into OT security and SRE-aligned work over time.
+The project's design will reference **ISA/IEC 62443** zone-and-conduit concepts and **NIST SP 800-82** guidance. Results and configurations will be published as they are built and tested.
 
-## Connect With Me
-- LinkedIn: www.linkedin.com/in/christopher-spencer-3a1a8827b
-- GitHub: [github.com/Cspenc3](https://github.com/Cspenc3)
+## How I Work
+
+I approach technical problems by asking:
+1. **What should the system do?** Define requirements and expected behavior.
+2. **What is actually happening?** Gather logs, packet evidence, and configuration data.
+3. **What are the risks and constraints?** Consider security, uptime, and operational impact.
+4. **How can we verify the change?** Test, document, and make the result reproducible.
+
+## Education & Professional Development
+
+- **CompTIA CySA+** — Certified
+- **B.S. in Cybersecurity**, Project Management concentration — Southern New Hampshire University (in progress)
+- Continuing hands-on study in Cisco networking, SOC investigations, PLC/SCADA systems, and OT security architecture
+- Studying project and risk management to complement technical design and implementation
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/christopher-spencer-3a1a8827b/)
+- [GitHub projects](https://github.com/Cspenc3?tab=repositories)
